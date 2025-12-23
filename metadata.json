@@ -1,0 +1,7 @@
+{
+  "name": "Zeist Language Practice AI",
+  "description": "A real-time conversational language practice partner powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
